@@ -1,0 +1,19 @@
+{
+  "playlist": [
+    {
+      "title": "8-Bit Adventure",
+      "artist": "BlvckRain",
+      "url": "https://raw.githubusercontent.com/username/repository/main/assets/music/8-bit-adventure.mp3"
+    },
+    {
+      "title": "Pixel Dreams",
+      "artist": "Tracy Pham",
+      "url": "https://raw.githubusercontent.com/username/repository/main/assets/music/pixel-dreams.mp3"
+    },
+    {
+      "title": "Retro Wave",
+      "artist": "Nàng",
+      "url": "https://raw.githubusercontent.com/username/repository/main/assets/music/retro-wave.mp3"
+    }
+  ]
+}
