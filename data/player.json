@@ -1,19 +1,59 @@
 {
   "playlist": [
     {
-      "title": "8-Bit Adventure",
+      "title": "01. Are You Alive",
       "artist": "BlvckRain",
-      "url": "https://raw.githubusercontent.com/username/repository/main/assets/music/8-bit-adventure.mp3"
+      "url": "https://github.com/rnlabel/data-rn/raw/refs/heads/main/review/Masted__Masted__01.%20Are%20You%20Alive.mp3"
     },
     {
-      "title": "Pixel Dreams",
-      "artist": "Tracy Pham",
-      "url": "https://raw.githubusercontent.com/username/repository/main/assets/music/pixel-dreams.mp3"
+      "title": "02. Artificial Love",
+      "artist": "BlvckRain",
+      "url": "https://github.com/rnlabel/data-rn/raw/refs/heads/main/review/Masted__Masted__02.%20Artificial%20Love.mp3"
     },
     {
-      "title": "Retro Wave",
-      "artist": "Nàng",
-      "url": "https://raw.githubusercontent.com/username/repository/main/assets/music/retro-wave.mp3"
+      "title": "03. Backdoor",
+      "artist": "BlvckRain",
+      "url": "https://github.com/rnlabel/data-rn/raw/refs/heads/main/review/Masted__Masted__03.%20Backdoor.mp3"
+    },
+    {
+      "title": "04. Dark Life",
+      "artist": "BlvckRain",
+      "url": "https://github.com/rnlabel/data-rn/raw/refs/heads/main/review/Masted__Masted__04.%20Dark%20Life.mp3"
+    },
+    {
+      "title": "05. Bleeding Silence",
+      "artist": "BlvckRain",
+      "url": "https://github.com/rnlabel/data-rn/raw/refs/heads/main/review/Masted__Masted__05.%20Bleeding%20Silence.mp3"
+    },
+    {
+      "title": "06. Fokko",
+      "artist": "BlvckRain",
+      "url": "https://github.com/rnlabel/data-rn/raw/refs/heads/main/review/Masted__Masted__06.%20Fokko.mp3"
+    },
+    {
+      "title": "07. Deep Throat Chakra",
+      "artist": "BlvckRain",
+      "url": "https://github.com/rnlabel/data-rn/raw/refs/heads/main/review/Masted__Masted__07.%20Deep%20Throat%20Chakra.mp3"
+    },
+    {
+      "title": "08. Fading Pulse",
+      "artist": "BlvckRain",
+      "url": "https://github.com/rnlabel/data-rn/raw/refs/heads/main/review/Masted__Masted__08.%20Fading%20Pulse.mp3"
+    },
+    {
+      "title": "09. Monochrome",
+      "artist": "BlvckRain",
+      "url": "https://github.com/rnlabel/data-rn/raw/refs/heads/main/review/Masted__Masted__09.%20Monochrome.mp3"
+    },
+    {
+      "title": "10. Last Breath",
+      "artist": "BlvckRain",
+      "url": "https://github.com/rnlabel/data-rn/raw/refs/heads/main/review/Masted__Masted__10.%20Last%20Breath.mp3"
+    },
+    {
+      "title": "11. Triple Trippin",
+      "artist": "BlvckRain",
+      "url": "https://github.com/rnlabel/data-rn/raw/refs/heads/main/review/Masted__Masted__11.%20Triple%20Trippin.mp3"
     }
   ]
 }
