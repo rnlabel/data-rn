@@ -1,4 +1,4 @@
-![enter image description here](https://i.imgur.com/sdXzifHl.png)
+![2018](https://i.ibb.co/Gfs539Mj/Blue-Colorful-8-Bit-Game-Presentation.png)
 
 # The Journey of Founding nrLabel
 
