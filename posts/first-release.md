@@ -1,21 +1,32 @@
 # Our First Digital Release
 
-We're excited to announce our first digital release coming this month!
+We're excited to announce our first BlvckRain's digital release coming this month!
 
 ## Release Details
 
-- Artist: BlvckRain
-- Title: Digital Dreams
-- Release Date: January 25, 2024
-- Format: Digital Album
+-   **Artist:** BlvckRain
+-   **Title:** Digital Dreams
+-   **Release Date:** January 23, 2025
+-   **Format:** Digital Album
 
 ## Track List
 
-1. Digital Dawn (3:45)
-2. Neon Dreams (4:20)
-3. Cyber Love (3:55)
-4. Virtual Reality (4:15)
+ 1. Are You Alive 
+ 2. Artificial Love 
+ 3. Backdoor 
+ 4. Dark Life 
+ 5. Bleeding Silence
+ 6. Fokko 
+ 7. Deep Throat Chakra 
+ 8. Fading Pulse 
+ 9. Monochrome 
+ 10. Last Breath 
+ 11. Triple Trippin
 
 ## Preview
 
-Check out the preview on our [SoundCloud](https://soundcloud.com) page! 
+Check out the preview on:
+
+-   📺 [YouTube](https://youtube.com)
+-   🎧 [Spotify](https://spotify.com)
+-   🛒 [Amazon Music](https://amazon.com)
