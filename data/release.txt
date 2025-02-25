@@ -1,3 +1,11 @@
-1 | Summer Night | Tracy Pham | Pop | 2024-01-15 | httpsspotify.link | httpsdownload.link
-2 | Pixel Dreams | BlvckRain | Electronic | 2024-02-01 | httpssoundcloud.link | httpsdownload.link
-3 | Retro Love | Nàng | Pop | 2024-02-15 | httpsyoutube.link | httpsdownload.link
+11 | Fading Pulse | BlvckRain | Electronic | 2024-02-23 | https://soundcloud.com/blvckrain | https://drive.google.com/file/d/xxx
+10 | Deep Throat Chakra | BlvckRain | Electronic | 2024-02-23 | https://soundcloud.com/blvckrain | https://drive.google.com/file/d/xxx
+9 | Fokko | BlvckRain | Electronic | 2024-02-23 | https://soundcloud.com/blvckrain | https://drive.google.com/file/d/xxx
+8 | Bleeding Silence | BlvckRain | Electronic | 2024-02-23 | https://soundcloud.com/blvckrain | https://drive.google.com/file/d/xxx
+7 | Dark Life | BlvckRain | Electronic | 2024-02-23 | https://soundcloud.com/blvckrain | https://drive.google.com/file/d/xxx
+6 | Backdoor | BlvckRain | Electronic | 2024-02-23 | https://soundcloud.com/blvckrain | https://drive.google.com/file/d/xxx
+5 | Artificial Love | BlvckRain | Electronic | 2024-02-23 | https://soundcloud.com/blvckrain | https://drive.google.com/file/d/xxx
+4 | Are You Alive | BlvckRain | Electronic | 2024-02-23 | https://soundcloud.com/blvckrain | https://drive.google.com/file/d/xxx
+3 | Retro Love | Nàng | Pop | 2024-02-15 | https://www.youtube.com/watch?v=xxx | https://drive.google.com/file/d/xxx
+2 | Pixel Dreams | BlvckRain | Electronic | 2024-02-01 | https://soundcloud.com/blvckrain | https://drive.google.com/file/d/xxx
+1 | Summer Night | Tracy Pham | Pop | 2024-01-15 | https://open.spotify.com/artist/6BRE5EhmHSV288ZIYvrxPG | https://drive.google.com/file/d/xxx
