@@ -5,7 +5,7 @@ We're excited to announce our first BlvckRain's digital release coming this mont
 ## Release Details
 
 -   **Artist:** BlvckRain
--   **Title:** Digital Dreams
+-   **Title:** Back Door
 -   **Release Date:** January 23, 2025
 -   **Format:** Digital Album
 
