@@ -27,6 +27,6 @@ We're excited to announce our first BlvckRain's digital release coming this mont
 
 Check out the preview on:
 
--   📺 [YouTube](https://youtube.com)
--   🎧 [Spotify](https://spotify.com)
--   🛒 [Amazon Music](https://amazon.com)
+-   📺 [YouTube]([https://youtube.com](https://www.youtube.com/@BlvckRainofficial))
+-   🎧 [Spotify]([https://spotify.com](https://open.spotify.com/album/7p2QplyFikgGyTghRMvDYW))
+-   🛒 [Amazon Music]([https://amazon.com](https://www.amazon.com/music/player/albums/B0DY78NVSW))
