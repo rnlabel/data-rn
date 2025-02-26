@@ -7,19 +7,19 @@
             "description": "I cant wait to see you again",
             "filename": "Cant_wait_to_see_you_again.md"
         },
+                {
+            "id": "first-release",
+            "title": "Album: BackDoor - BlvckRain",
+            "date": "2024-01-15", 
+            "description": "BlvckRain - Digital Dreams (Debut Album)",
+            "filename": "first-release.md"
+        },
         {
             "id": "welcome",
             "title": "Welcome to nrLabel Blog",
             "date": "2024-01-01",
             "description": "Introduction to our music label and future plans",
             "filename": "welcome.md"
-        },
-        {
-            "id": "first-release",
-            "title": "Album: BackDoor - BlvckRain",
-            "date": "2024-01-15", 
-            "description": "BlvckRain - Digital Dreams (Debut Album)",
-            "filename": "first-release.md"
         }
     ]
 } 
